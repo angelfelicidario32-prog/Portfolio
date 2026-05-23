@@ -14,4 +14,3 @@
 | Anti Theft Bag Alarm | ESP 32, Sensor, Buzzer |
 | Vendo Machine | Arduino Uno, LCD, IR Sensor, Weight Sensor, GSM Module |
 
-
