@@ -9,6 +9,7 @@
 | BSECE-Student | Fullbright College | 
 
 ## Projects
+
 ### **🕰 Anti-Theft Bag Alarm**
 
 Anti-Theft Bag Alarm Overview
@@ -35,7 +36,32 @@ Key Features of the Anti-Theft Bag Alarm
 
 **• Multi-Purpose Security** - Aside from bags, the device may also be used for luggage, lockers, and other personal belongings.
 
-**• Enhanced Protection** - The combination of ESP32 technology and sensors provides better security and faster response against theft attempts.
+**• Enhanced Protection** - The combination of ESP32 technology and sensors provides better security and faster response againsProjects
+s attempts.
 
 
 ### **🤖 PolvoNuts Vending Machine**
+
+
+The polvoron and barnuts vending machine is an automated system developed to dispense polvoron and barnuts products quickly and conveniently. It is powered by an Arduino Arduino Uno microcontroller that manages the machine’s overall functions and operations. The system is integrated with an IR sensor, weight sensor, LCD display, and GSM module to improve product monitoring, dispensing accuracy, and communication. This machine provides an efficient and reliable way of selling polvoron and barnuts while reducing manual work.
+
+**Key Features:** 
+
+**• Arduino Uno Control System** - The Arduino Uno acts as the main controller responsible for handling the machine’s processes and connected components.
+
+**• IR Sensor Technology** - The IR sensor detects objects or user interaction and assists in monitoring the dispensing mechanism.
+**• Weight Measurement Sensor** - The weight sensor ensures that the correct amount of polvoron is dispensed accurately.
+
+**• LCD Information Display** - The LCD screen provides users with important details such as instructions, machine status, and transaction information.
+
+**• GSM Module Function** - The GSM module enables the system to send text notifications or updates for monitoring and maintenance purposes.
+
+**• Automatic Dispensing Feature** - The machine automatically releases the product once the required process is completed.
+
+**• Easy-to-Use Operation** - The vending machine is designed with a simple interface that allows customers to use it conveniently.
+
+**• Product and System Monitoring** - The integrated sensors help monitor product availability and maintain efficient machine performance.
+
+**• Space-Saving Design** - The machine is compact and organized, making it suitable for different locations.
+
+**• Dependable Performance** - The combination of Arduino Uno, sensors, and communication modules helps ensure accurate, smooth, and efficient vending operations.
