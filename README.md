@@ -12,7 +12,6 @@
 
 ### **🕰 Anti-Theft Bag Alarm**
 
-Anti-Theft Bag Alarm Overview
 The anti-theft bag alarm is a smart security device designed to protect bags and personal belongings from theft. It uses an Espressif Systems ESP32 microcontroller together with sensors to detect suspicious movements or unauthorized access. When the sensor detects unusual activity, the system activates an alarm to alert the owner immediately. This device is useful for students, travelers, commuters, and people carrying valuable items in public places.
 Key Features of the Anti-Theft Bag Alarm
 
